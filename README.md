@@ -15,6 +15,6 @@ My works in progress:
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=MathieuSchl&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/?username=MathieuSchl&show_icons=true&theme=blueberry&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuSchl">
 </div>
